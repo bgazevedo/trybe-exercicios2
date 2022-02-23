@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML exercicio</title>
+  </head>
+  <body>
+    <h1>Exercício 1 ~ bloco 3</h1>
+    <h2>Beus bigos da Trybe x3 </h2>
+    <ul>
+        <li>Harumi maeda</li>
+        <li>Marina </li>
+        <li>Rafael K.</li>
+        <li>Matheus Tostes</li>
+    </ul>
+    <img src="http://pm1.narvii.com/6410/947597017b3a09ff32ca01729a91d908044021d1_00.jpg" width="300px">
+    <img src="~/Desktop/otacos.jpeg">
+  </body>
+</html>
